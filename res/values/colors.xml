@@ -18,8 +18,8 @@
 
     <!-- Secondary text color in the Phone app -->
     <color name="dialtacts_secondary_text_color">#888888</color>
-    <color name="smartdial_name_primary_text_color">#0099cc</color>
-    <color name="smartdial_name_highlighted_text_color">#39c9ff</color>
+    <color name="smartdial_name_primary_text_color">#aaaaaa</color>
+    <color name="smartdial_name_highlighted_text_color">#ffffff</color>
     <color name="smartdial_number_primary_text_color">#bbbbbb</color>
     <color name="smartdial_number_highlighted_text_color">#ffffff</color>
 
@@ -27,7 +27,7 @@
     <color name="call_log_missed_call_highlight_color">#FF0000</color>
 
     <!-- Color of the text describing an unconsumed voicemail. -->
-    <color name="call_log_voicemail_highlight_color">#33b5e5</color>
+    <color name="call_log_voicemail_highlight_color">#777777</color>
 
     <!-- Colour background for the voicemail playback ui. -->
     <color name="voicemail_playback_ui_background">@android:color/black</color>
@@ -39,7 +39,7 @@
     <color name="voicemail_playback_seek_bar_already_played">#ccffffff</color>
 
     <!-- Standard color for selected items. -->
-    <color name="item_selected">#660099cc</color>
+    <color name="item_selected">#66bbbbbb</color>
 
     <!-- Colors for incoming and outgoing calls in the call statistics -->
     <color name="call_stats_incoming">#33b5e5</color>
@@ -52,13 +52,13 @@
     <color name="call_log_primary_background_color">#000000</color>
     <color name="call_log_secondary_text_color">#888888</color>
     <color name="call_log_secondary_background_color">#333333</color>
-    <color name="call_log_header_color">#33b5e5</color>
+    <color name="call_log_header_color">#FFFFFF</color>
     <color name="call_log_voicemail_status_background_color">#262626</color>
     <color name="call_log_voicemail_status_text_color">#888888</color>
     <color name="call_log_voicemail_status_action_text_color">#33b5e5</color>
     <color name="call_detail_background">#ff000000</color>
     <color name="call_detail_blank_background">#ff000000</color>
-    <color name="call_detail_separator">#ff33b5e5</color>
+    <color name="call_detail_separator">#ffffffff</color>
     <color name="call_detail_photo_bg">#7f000000</color>
     <color name="call_log_divider">#55ffffff</color>
     <color name="white_text">#ffffffff</color>
